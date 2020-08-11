@@ -10,17 +10,17 @@ https://tresquintos.cl/datos
 Variables 
 
 id:
-año:
-función:
-nombre:
-partido:
-tema:
-dip_fdp: dd/mm/aaaa
-dip_fdr: dd/mm/aaaa
-dip_resolución:
-sen_fdr: dd/mm/aaaa
-sen_resolución: dd/mm/aaaa
-resultado: resultado de la Acusación Constitucional
+año: aaaa
+función: función pública del acusado
+nombre: nombre del acusado
+partido: partido del acusado
+tema: razón de la acusación
+dip_fdp: fecha de presentación en la Cámara de Diputados, dd/mm/aaaa
+dip_fdr: fecha de resolución en la Cámara de Diputados, dd/mm/aaaa
+dip_resolución: resultado de la Acusación Constitucional en la Cámara de Diputados
+sen_fdr: fecha de resolución en el Senado, dd/mm/aaaa
+sen_resolución: resultado de la Acusación Constitucional en el Senado
+resultado: resultado final de la Acusación Constitucional
 
 ##########################
 
