@@ -4,7 +4,7 @@ TRESQUINTOS
 
 Bases de Datos de Tresquintos
 Serie: “Elecciones Presidenciales, 1989-2017”
-Base: "presidenciales_89-17"
+Base: "presidenciales_93"
 Sitio: https://tresquintos.cl/datos
 
 ##########################
@@ -12,7 +12,7 @@ Sitio: https://tresquintos.cl/datos
 INFORMACIÓN
 
 columnas: 25
-filas: 64.366
+filas: 12.488
 
 ##########################
 
